@@ -1,1 +1,2 @@
-# Bluetooth-Car
+This project is a custom-built Bluetooth-controlled 6-wheeled robotic car designed to explore wireless communication, embedded systems, and robotics control. The car is controlled using a smartphone via Bluetooth, enabling smooth directional control through simple commands. It's built on a sturdy 6-wheel chassis, ideal for navigating various terrains with enhanced stability and traction.
+This project is a great example of integrating basic robotics and wireless technology, and it's perfect for beginners learning about microcontrollers, motor drivers, and Bluetooth communication in real-time embedded systems.
